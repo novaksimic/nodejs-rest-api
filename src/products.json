@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop",
+    "model": "Dell Inspiron 4500",
+    "price": "500e"
+  },
+  {
+    "id": "2",
+    "name": "Tastatura",
+    "model": "A4tech",
+    "price": "80e"
+  },
+  {
+    "id": "3",
+    "name": "Mis",
+    "model": "A4tech",
+    "price": "55e"
+  },
+  {
+    "id": "4",
+    "name": "Monitor",
+    "model": "Flatron W2234S",
+    "price": "150e"
+  },
+  {
+    "id": "5",
+    "name": "Mobilni telefon",
+    "model": "Iphone 7",
+    "price": "350e"
+  }
+]
